@@ -1,0 +1,6 @@
+ipykernel
+whenever
+langchain
+python-dotenv
+langchain-groq
+langchain_google_genai
