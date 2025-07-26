@@ -1,3 +1,6 @@
 .env
 .p1_venv
 .Ds_Store
+logs/
+*.pyc
+test.py
