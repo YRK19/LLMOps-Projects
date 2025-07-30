@@ -4,3 +4,5 @@
 logs/
 *.pyc
 test.py
+.flake8
+logs
