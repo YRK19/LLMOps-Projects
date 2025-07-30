@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: p1-document-portal
+Version: 0.1.0
+Summary: Add your description here
+Author: Ravikiran
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Dynamic: author
