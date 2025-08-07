@@ -6,3 +6,4 @@ logs/
 test.py
 .flake8
 logs
+.venv
